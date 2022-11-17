@@ -3,17 +3,27 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - IcySheild
+  - Bullet
+  - IcePowerUp
+  - Enemy
+  - Ground
+  - FirePowerUp
+  - LightPowerUp
+  - PlantPowerUp
+  - HarmPlayer
+  - HarmEnemy
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - Player
   - Water
   - UI
-  - 
-  - 
-  - 
+  - Enemy
+  - PlayerBullet
+  - EnemyBullet
   - 
   - 
   - 
