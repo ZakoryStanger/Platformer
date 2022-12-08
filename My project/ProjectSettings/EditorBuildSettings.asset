@@ -26,9 +26,9 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/LVL5.unity
     guid: 91004b33db3b4574f8d96df850e17e2c
-  - enabled: 1
-    path: Assets/Scenes/Win.unity
-    guid: 9c9233fce883552488ae968795aa46ad
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
   - enabled: 1
     path: Assets/Scenes/Lose.unity
     guid: bdebed3427a77884b8f90f09490668e6
