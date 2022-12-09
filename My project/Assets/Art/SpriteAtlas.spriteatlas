@@ -1,0 +1,83 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: SpriteAtlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 0
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 0
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 2b79f6654c749eb4ea41f0024ebcad23, type: 3}
+    - {fileID: 2800000, guid: e5b9defdb7f43084cb3ade2a11b2e6f9, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 1229982766, guid: 2b79f6654c749eb4ea41f0024ebcad23, type: 3}
+  - {fileID: -1823089809, guid: 2b79f6654c749eb4ea41f0024ebcad23, type: 3}
+  - {fileID: -296003241, guid: 2b79f6654c749eb4ea41f0024ebcad23, type: 3}
+  - {fileID: 1907114723, guid: 2b79f6654c749eb4ea41f0024ebcad23, type: 3}
+  - {fileID: -356261496, guid: 2b79f6654c749eb4ea41f0024ebcad23, type: 3}
+  - {fileID: 884298572, guid: e5b9defdb7f43084cb3ade2a11b2e6f9, type: 3}
+  - {fileID: 358169585, guid: e5b9defdb7f43084cb3ade2a11b2e6f9, type: 3}
+  - {fileID: 1063051691, guid: e5b9defdb7f43084cb3ade2a11b2e6f9, type: 3}
+  - {fileID: -1304558591, guid: e5b9defdb7f43084cb3ade2a11b2e6f9, type: 3}
+  - {fileID: -1383622054, guid: e5b9defdb7f43084cb3ade2a11b2e6f9, type: 3}
+  - {fileID: -1855477092, guid: e5b9defdb7f43084cb3ade2a11b2e6f9, type: 3}
+  - {fileID: 1343046459, guid: e5b9defdb7f43084cb3ade2a11b2e6f9, type: 3}
+  - {fileID: 490177093, guid: e5b9defdb7f43084cb3ade2a11b2e6f9, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - ParallaxBackgroundTrees_0
+  - ParallaxBackgroundTrees_1
+  - ParallaxBackgroundTrees_2
+  - ParallaxBackgroundTrees_3
+  - ParallaxBackgroundTrees_4
+  - TempleGrass2d_5
+  - TempleGrass2d_4
+  - TempleGrass2d_7
+  - TempleGrass2d_6
+  - TempleGrass2d_1
+  - TempleGrass2d_0
+  - TempleGrass2d_3
+  - TempleGrass2d_2
+  m_RenderDataMap: {}
+  m_Tag: SpriteAtlas
+  m_IsVariant: 0
