@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 5057ea6ad7cf9434499c5729308ade3f
+guid: ed13d5f68cefc80418684abb6c2694eb
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -105,103 +105,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: ExitPlatformer (1)_0
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 64
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 2f049f82322152643b558ddcc43151b5
-      internalID: 1702195042
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: ExitPlatformer (1)_1
-      rect:
-        serializedVersion: 2
-        x: 32
-        y: 64
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape:
-      - - {x: -16, y: -16}
-        - {x: -16, y: 16}
-        - {x: -6, y: 16}
-        - {x: -6, y: -16}
-      tessellationDetail: 0
-      bones: []
-      spriteID: fd03d8508334bc94199df7f4a9029b10
-      internalID: 1706521724
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: ExitPlatformer (1)_2
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 32
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape:
-      - - {x: -16, y: -16}
-        - {x: -16, y: 14}
-        - {x: -6, y: 14}
-        - {x: -6, y: -16}
-      tessellationDetail: 0
-      bones: []
-      spriteID: fcfe87b40b943fd41a6ace49020bd65a
-      internalID: 911760286
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: ExitPlatformer (1)_3
-      rect:
-        serializedVersion: 2
-        x: 32
-        y: 32
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape:
-      - - {x: -16, y: -16}
-        - {x: -16, y: 1}
-        - {x: 16, y: 15}
-        - {x: 16, y: -16}
-      tessellationDetail: 0
-      bones: []
-      spriteID: bc143e94a84ebba44898feb13d5a336f
-      internalID: 848341138
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: ExitPlatformer (1)_4
+      name: Spikes_0
       rect:
         serializedVersion: 2
         x: 0
@@ -209,18 +113,14 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-      physicsShape:
-      - - {x: -16, y: -16}
-        - {x: -16, y: -15}
-        - {x: 16, y: 0}
-        - {x: 16, y: -16}
+      physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9fb0e090ed5ce584e8bbd84d68f66c06
-      internalID: 1454093307
+      spriteID: 9a7cb63357c0c2941a5a323ee52ee17d
+      internalID: 297508499
       vertices: []
       indices: 
       edges: []
@@ -236,11 +136,7 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      ExitPlatformer (1)_1: 1706521724
-      ExitPlatformer (1)_3: 848341138
-      ExitPlatformer (1)_2: 911760286
-      ExitPlatformer (1)_4: 1454093307
-      ExitPlatformer (1)_0: 1702195042
+      Spikes_0: 297508499
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

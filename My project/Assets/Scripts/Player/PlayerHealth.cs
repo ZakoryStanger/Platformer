@@ -18,7 +18,11 @@ public class PlayerHealth : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-
+        if(health <= 0)
+            {
+                Scene scene = SceneManager.GetActiveScene();
+                SceneManager.LoadScene("Lose");
+            }
     }
     private void OnCollisionEnter2D(Collision2D collision)
     {
@@ -28,11 +32,7 @@ public class PlayerHealth : MonoBehaviour
             slider.value = health;
         
 
-            if(health <= 0)
-            {
-                Scene scene = SceneManager.GetActiveScene();
-                SceneManager.LoadScene("Lose");
-            }
+            
         }
     }
 }
