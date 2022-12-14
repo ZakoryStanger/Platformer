@@ -23,6 +23,9 @@ public class Level_1_2 : MonoBehaviour
     }
     private void OnCollisionEnter2D(Collision2D collision)
     {
-        active = true;
+        if (collision.gameObject.tag == "Player")
+        {
+            active = true;
+        }
     }
 }
