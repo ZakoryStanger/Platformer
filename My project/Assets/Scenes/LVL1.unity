@@ -139,9 +139,9 @@ GameObject:
   - component: {fileID: 42691109}
   - component: {fileID: 42691108}
   - component: {fileID: 42691115}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Guy
-  m_TagString: Untagged
+  m_TagString: Player
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -308,8 +308,8 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 565245389}
-  m_Father: {fileID: 0}
-  m_RootOrder: 1
+  m_Father: {fileID: 1523754683}
+  m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &42691115
 MonoBehaviour:
@@ -409,7 +409,8 @@ Transform:
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
-  m_Children: []
+  m_Children:
+  - {fileID: 42691114}
   m_Father: {fileID: 1218723400}
   m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -665,8 +666,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1929088948}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalPosition: {x: -2.62, y: -0.24, z: 0}
+  m_LocalScale: {x: 0.9564, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 1218723400}
@@ -698,7 +699,7 @@ CompositeCollider2D:
   m_Enabled: 1
   m_Density: 1
   m_Material: {fileID: 0}
-  m_IsTrigger: 1
+  m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
   m_Offset: {x: 0, y: 0}
@@ -708,44 +709,44 @@ CompositeCollider2D:
   m_ColliderPaths:
   - m_Collider: {fileID: 1929088950}
     m_ColliderPaths:
-    - - X: -626875008
+    - - X: -599543232
         Y: -20625000
-      - X: -630000000
+      - X: -602531968
         Y: -20625000
-      - X: -630000000
+      - X: -602531968
         Y: -20312500
-      - X: -640000000
+      - X: -612096000
         Y: -24687500
-      - X: -640000000
+      - X: -612096000
         Y: -25000000
-      - X: -650000000
+      - X: -621660032
         Y: -29687500
-      - X: -650000000
+      - X: -621660032
         Y: -30312500
-      - X: -660000000
+      - X: -631224000
         Y: -34687500
-      - X: -660000000
+      - X: -631224000
         Y: -35000000
-      - X: -670000000
+      - X: -640787968
         Y: -39687500
-      - X: -670000000
+      - X: -640787968
         Y: -40000000
-      - X: -626875008
+      - X: -599543232
         Y: -40000000
   m_CompositePaths:
     m_Paths:
-    - - {x: -62.687534, y: -4}
-      - {x: -62.687534, y: -2.0625}
-      - {x: -63, y: -2.0624707}
-      - {x: -63.000046, y: -2.03127}
-      - {x: -64, y: -2.468768}
-      - {x: -64.000015, y: -2.5000072}
-      - {x: -65, y: -2.9687672}
-      - {x: -65.00002, y: -3.0312572}
-      - {x: -66, y: -3.4687681}
-      - {x: -66.000015, y: -3.5000072}
-      - {x: -67, y: -3.9687672}
-      - {x: -66.99997, y: -4}
+    - - {x: -59.954357, y: -4}
+      - {x: -59.954357, y: -2.0625}
+      - {x: -60.253197, y: -2.0624707}
+      - {x: -60.253242, y: -2.031271}
+      - {x: -61.209602, y: -2.4687674}
+      - {x: -61.209614, y: -2.5000074}
+      - {x: -62.166004, y: -2.968767}
+      - {x: -62.166016, y: -3.0312572}
+      - {x: -63.122402, y: -3.4687672}
+      - {x: -63.122414, y: -3.5000072}
+      - {x: -64.0788, y: -3.968767}
+      - {x: -64.078766, y: -4}
   m_VertexDistance: 0.0005
   m_OffsetDistance: 0.00005
 --- !u!50 &1929088952
