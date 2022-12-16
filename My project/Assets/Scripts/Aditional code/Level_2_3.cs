@@ -9,6 +9,12 @@ public class Level_2_3 : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
+
+    }
+
+    // Update is called once per frame
+    void Update()
+    {
         if (active)
         {
             SceneManager.LoadScene("LVL3");
