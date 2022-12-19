@@ -46,16 +46,33 @@ SpriteAtlas:
     packables:
     - {fileID: 2800000, guid: 2b79f6654c749eb4ea41f0024ebcad23, type: 3}
     - {fileID: 2800000, guid: e5b9defdb7f43084cb3ade2a11b2e6f9, type: 3}
+    - {fileID: 2800000, guid: 8e7602d37547246469cdc4ccd9ddee31, type: 3}
+    - {fileID: 2800000, guid: 2c3bf65793624f747b857dcdb6df62fc, type: 3}
+    - {fileID: 2800000, guid: 5057ea6ad7cf9434499c5729308ade3f, type: 3}
     bindAsDefault: 1
     isAtlasV2: 0
     cachedData: {fileID: 0}
   m_MasterAtlas: {fileID: 0}
   m_PackedSprites:
+  - {fileID: -1249285231, guid: 8e7602d37547246469cdc4ccd9ddee31, type: 3}
+  - {fileID: -1609414258, guid: 8e7602d37547246469cdc4ccd9ddee31, type: 3}
+  - {fileID: 841325382, guid: 8e7602d37547246469cdc4ccd9ddee31, type: 3}
   - {fileID: 1229982766, guid: 2b79f6654c749eb4ea41f0024ebcad23, type: 3}
   - {fileID: -1823089809, guid: 2b79f6654c749eb4ea41f0024ebcad23, type: 3}
   - {fileID: -296003241, guid: 2b79f6654c749eb4ea41f0024ebcad23, type: 3}
   - {fileID: 1907114723, guid: 2b79f6654c749eb4ea41f0024ebcad23, type: 3}
   - {fileID: -356261496, guid: 2b79f6654c749eb4ea41f0024ebcad23, type: 3}
+  - {fileID: 1900850610, guid: 2c3bf65793624f747b857dcdb6df62fc, type: 3}
+  - {fileID: -938967081, guid: 2c3bf65793624f747b857dcdb6df62fc, type: 3}
+  - {fileID: -906505802, guid: 2c3bf65793624f747b857dcdb6df62fc, type: 3}
+  - {fileID: -1506765137, guid: 2c3bf65793624f747b857dcdb6df62fc, type: 3}
+  - {fileID: -696320114, guid: 2c3bf65793624f747b857dcdb6df62fc, type: 3}
+  - {fileID: 1002524611, guid: 2c3bf65793624f747b857dcdb6df62fc, type: 3}
+  - {fileID: 1702195042, guid: 5057ea6ad7cf9434499c5729308ade3f, type: 3}
+  - {fileID: 1706521724, guid: 5057ea6ad7cf9434499c5729308ade3f, type: 3}
+  - {fileID: 911760286, guid: 5057ea6ad7cf9434499c5729308ade3f, type: 3}
+  - {fileID: 848341138, guid: 5057ea6ad7cf9434499c5729308ade3f, type: 3}
+  - {fileID: 1454093307, guid: 5057ea6ad7cf9434499c5729308ade3f, type: 3}
   - {fileID: 884298572, guid: e5b9defdb7f43084cb3ade2a11b2e6f9, type: 3}
   - {fileID: 358169585, guid: e5b9defdb7f43084cb3ade2a11b2e6f9, type: 3}
   - {fileID: 1063051691, guid: e5b9defdb7f43084cb3ade2a11b2e6f9, type: 3}
@@ -65,11 +82,25 @@ SpriteAtlas:
   - {fileID: 1343046459, guid: e5b9defdb7f43084cb3ade2a11b2e6f9, type: 3}
   - {fileID: 490177093, guid: e5b9defdb7f43084cb3ade2a11b2e6f9, type: 3}
   m_PackedSpriteNamesToIndex:
+  - lvl2 perelax_2
+  - lvl2 perelax_1
+  - lvl2 perelax_0
   - ParallaxBackgroundTrees_0
   - ParallaxBackgroundTrees_1
   - ParallaxBackgroundTrees_2
   - ParallaxBackgroundTrees_3
   - ParallaxBackgroundTrees_4
+  - level 2_0
+  - level 2_1
+  - level 2_2
+  - level 2_3
+  - level 2_4
+  - level 2_5
+  - ExitPlatformer (1)_0
+  - ExitPlatformer (1)_1
+  - ExitPlatformer (1)_2
+  - ExitPlatformer (1)_3
+  - ExitPlatformer (1)_4
   - TempleGrass2d_5
   - TempleGrass2d_4
   - TempleGrass2d_7
