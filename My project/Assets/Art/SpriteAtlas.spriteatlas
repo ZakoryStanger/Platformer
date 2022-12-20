@@ -49,6 +49,7 @@ SpriteAtlas:
     - {fileID: 2800000, guid: 8e7602d37547246469cdc4ccd9ddee31, type: 3}
     - {fileID: 2800000, guid: 2c3bf65793624f747b857dcdb6df62fc, type: 3}
     - {fileID: 2800000, guid: 5057ea6ad7cf9434499c5729308ade3f, type: 3}
+    - {fileID: 2800000, guid: 100e59cdf26904f4fbc51a779acd1e26, type: 3}
     bindAsDefault: 1
     isAtlasV2: 0
     cachedData: {fileID: 0}
@@ -73,6 +74,21 @@ SpriteAtlas:
   - {fileID: 911760286, guid: 5057ea6ad7cf9434499c5729308ade3f, type: 3}
   - {fileID: 848341138, guid: 5057ea6ad7cf9434499c5729308ade3f, type: 3}
   - {fileID: 1454093307, guid: 5057ea6ad7cf9434499c5729308ade3f, type: 3}
+  - {fileID: 1744479559, guid: 100e59cdf26904f4fbc51a779acd1e26, type: 3}
+  - {fileID: 200965255, guid: 100e59cdf26904f4fbc51a779acd1e26, type: 3}
+  - {fileID: 674248401, guid: 100e59cdf26904f4fbc51a779acd1e26, type: 3}
+  - {fileID: 448447627, guid: 100e59cdf26904f4fbc51a779acd1e26, type: 3}
+  - {fileID: 1051508872, guid: 100e59cdf26904f4fbc51a779acd1e26, type: 3}
+  - {fileID: 1214901126, guid: 100e59cdf26904f4fbc51a779acd1e26, type: 3}
+  - {fileID: -20446058, guid: 100e59cdf26904f4fbc51a779acd1e26, type: 3}
+  - {fileID: -1645989297, guid: 100e59cdf26904f4fbc51a779acd1e26, type: 3}
+  - {fileID: 1652423037, guid: 100e59cdf26904f4fbc51a779acd1e26, type: 3}
+  - {fileID: 1708375462, guid: 100e59cdf26904f4fbc51a779acd1e26, type: 3}
+  - {fileID: 1569668680, guid: 100e59cdf26904f4fbc51a779acd1e26, type: 3}
+  - {fileID: 1992570804, guid: 100e59cdf26904f4fbc51a779acd1e26, type: 3}
+  - {fileID: 1984669795, guid: 100e59cdf26904f4fbc51a779acd1e26, type: 3}
+  - {fileID: -945192587, guid: 100e59cdf26904f4fbc51a779acd1e26, type: 3}
+  - {fileID: 1071683534, guid: 100e59cdf26904f4fbc51a779acd1e26, type: 3}
   - {fileID: 884298572, guid: e5b9defdb7f43084cb3ade2a11b2e6f9, type: 3}
   - {fileID: 358169585, guid: e5b9defdb7f43084cb3ade2a11b2e6f9, type: 3}
   - {fileID: 1063051691, guid: e5b9defdb7f43084cb3ade2a11b2e6f9, type: 3}
@@ -101,6 +117,21 @@ SpriteAtlas:
   - ExitPlatformer (1)_2
   - ExitPlatformer (1)_3
   - ExitPlatformer (1)_4
+  - cobble grey_0
+  - cobble grey_1
+  - cobble grey_2
+  - cobble grey_3
+  - cobble grey_4
+  - cobble grey_5
+  - cobble grey_6
+  - cobble grey_7
+  - cobble grey_8
+  - cobble grey_9
+  - cobble grey_13
+  - cobble grey_12
+  - cobble grey_11
+  - cobble grey_10
+  - cobble grey_14
   - TempleGrass2d_5
   - TempleGrass2d_4
   - TempleGrass2d_7
