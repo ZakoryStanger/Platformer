@@ -8,7 +8,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/MainMenu.unity
     guid: 83a891560e5daa446987ef940150d6e2
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/LVLs.unity
     guid: a6a8049c55ea79c49b5451e97481b768
   - enabled: 1
@@ -35,7 +35,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Lose.unity
     guid: bdebed3427a77884b8f90f09490668e6
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Extra.unity
     guid: 335b03bcb195ad94f93ae3996de99c8d
   m_configObjects: {}
